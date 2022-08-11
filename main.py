@@ -1,0 +1,1 @@
+student_scores = input("Input a list of student scores with a space between each one : ").split()
